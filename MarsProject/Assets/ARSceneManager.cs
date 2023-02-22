@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace ARWT.Core
+namespace ARWT.WebXR
+
 {
     public class ARSceneManager : MonoBehaviour
     {
