@@ -904,7 +904,7 @@ GameObject:
   - component: {fileID: 1223819851}
   - component: {fileID: 1223819850}
   m_Layer: 0
-  m_Name: LeanToucj
+  m_Name: LeanTouch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
