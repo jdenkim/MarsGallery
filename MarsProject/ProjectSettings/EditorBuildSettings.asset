@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/MarsMain.unity
     guid: d1b4d187ff15d4bd29c76a896d8964d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/MarsMainLa.unity
     guid: c3cc351a76e7d4a0ea8abf15d85801a3
   - enabled: 0
@@ -26,7 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Demos/Markerless/AR Markerless Anchors/Anchors.unity
     guid: 8e6896a499eedd94d9e57db2856c280e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Demos/Markerless/AR Markerless ImageTracking/MultipleImageTracking/MultipleImageTracking.unity
     guid: de6fadf9598693549ab2d806efda1a51
   - enabled: 0
