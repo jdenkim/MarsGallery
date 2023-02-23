@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/MarsMain.unity
     guid: d1b4d187ff15d4bd29c76a896d8964d1
   - enabled: 1
-    path: Assets/MarsMainLast.unity
-    guid: d98f970f68b3e441f8d9837277f36b43
+    path: Assets/MarsMainLa.unity
+    guid: c3cc351a76e7d4a0ea8abf15d85801a3
   - enabled: 0
     path: Assets/Demos/Marker/AR Marker Simple Button/ARMarker Simple Button.unity
     guid: 248dda6d9653f4ec5bb7484b9e0875af
