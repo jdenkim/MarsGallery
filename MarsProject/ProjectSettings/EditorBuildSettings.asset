@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/MarsMain.unity
     guid: d1b4d187ff15d4bd29c76a896d8964d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/01.unity
     guid: 58094235a17354cddb3001212f2d806d
   - enabled: 0
@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Demos/Markerless/AR Markerless ImageTracking/SingleImageTracking/SingleImageTracking.unity
     guid: fcc8bdde1f18fc1409af4c834043f32e
+  - enabled: 1
+    path: Assets/MarsProject.unity
+    guid: 1560b5918933744408f5418570236321
   m_configObjects: {}
