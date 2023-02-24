@@ -602,7 +602,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -708}
+  m_AnchoredPosition: {x: 0, y: -757}
   m_SizeDelta: {x: 370, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &360454819
@@ -617,7 +617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81a42ea340e0c4574b0ebf7357cf6286, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Url: www.daum.net
+  Url: https://youtube.com/shorts/jcbA9NngObg?feature=share
 --- !u!114 &360454820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1862,7 +1862,7 @@ RectTransform:
   m_GameObject: {fileID: 1940050385}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5594679, y: 0.5594679, z: 0.5594679}
+  m_LocalScale: {x: 0.8121236, y: 0.8121236, z: 0.8121236}
   m_Children:
   - {fileID: 2008962320}
   m_Father: {fileID: 357522149}
@@ -1870,7 +1870,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 869}
+  m_AnchoredPosition: {x: 0, y: 760}
   m_SizeDelta: {x: 500, y: 420}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1940050387
