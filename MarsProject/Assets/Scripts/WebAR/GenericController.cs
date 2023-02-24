@@ -4,7 +4,7 @@ using UnityEngine.UI;
 namespace ARWT.Marker{
     public class GenericController : MonoBehaviour{
 
-        public string markerToListen = "hiro";
+        public string markerToListen = "Nutty";
         public GameObject child;
         public float updateSpeed = 10;
         public float positionThreshold = 0;
